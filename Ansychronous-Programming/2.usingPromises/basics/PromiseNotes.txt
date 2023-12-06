@@ -1,0 +1,6 @@
+//In ansychronous JS, Promise is an intent to do something in the future but it's not guaranteed to be successful.
+
+
+//there are three states of a PROMISE : (1)Pending(Rsult is still processing)---> (2)FAILED(rejected, when an error occurs) or (3) FULFILLED(Resolved, which means there was no error)
+
+//.then is used to capture the successful result and .catch is to capture a failed promise

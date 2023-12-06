@@ -1,0 +1,21 @@
+{
+  "name": "set-timeout-practice",
+  "version": "1.0.0",
+  "description": "implementing setTimeOut in DOM",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "author": "luciano",
+  "devDependencies": {
+    "@babel/core": "7.13.8",
+    "@babel/preset-env": "7.13.8",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
