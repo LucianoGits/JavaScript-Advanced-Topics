@@ -12,6 +12,6 @@ Most of the templates in the mini-apps use Parcel bundler.
 
 In the commandline on app directory, run:
 
-- rm -rf node_modules
-- rm package-lock.json
-- npm install
+- delete 'node_modules' : rm -rf node_modules
+- delete 'package-lock' : rm package-lock.json
+- reinstall dependencies : npm install
