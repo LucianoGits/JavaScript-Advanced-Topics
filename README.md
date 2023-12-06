@@ -10,6 +10,6 @@ Most of the templates in the mini-apps use Parcel bundler.
 
 **deasync related problems: In the commandline on app directory, run:**
 
-- delete 'node_modules' : rm -rf node_modules
-- delete 'package-lock' : rm package-lock.json
-- reinstall dependencies : npm install
+- delete 'node_modules' : `rm -rf node_modules`
+- delete 'package-lock' : `rm package-lock.json`
+- reinstall dependencies : `npm install`
