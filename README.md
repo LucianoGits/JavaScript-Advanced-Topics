@@ -8,8 +8,7 @@ Most of the templates in the mini-apps use Parcel bundler.
 - Development : `npm run dev`
 - Production Build: `npm run build`
 
-**deasync related problems: In the commandline on app directory, run:
-**
+**deasync related problems: In the commandline on app directory, run:**
 
 - delete 'node_modules' : rm -rf node_modules
 - delete 'package-lock' : rm package-lock.json
